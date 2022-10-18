@@ -8,12 +8,14 @@ Commed line use user input to generat ReadMe.
 
 
 ## Installation
+In your terminal type blow to install.
 
 ```md
 npm i
 ```
 
 ## Usage
+In your terminal type blow to generat README.
 
 ```md
 node index.js
